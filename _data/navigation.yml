@@ -4,7 +4,7 @@ main:
     url: /members/
   - title: "Products"
     url: /products/
-  - title: "Connection"
+  - title: "Contact"
     url: /connection/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
