@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Members"
-    url: /members/
   - title: "Products"
     url: /products/
+  - title: "Members"
+    url: /members/
   - title: "Contact"
     url: /connection/  
   # - title: "About"
