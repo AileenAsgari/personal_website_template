@@ -9,10 +9,22 @@ comments: false
 ---
 
 
-# AI Chatbot
-* 
-شرکت NexaTech یک پیشرو در حوزه فناوری و هوش مصنوعی است که با تمرکز بر ایجاد راه‌حل‌های هوشمند و گفتگومحور، محصول اصلی خود به نام **NexaChat AI** را توسعه داده است. این دستیار هوشمند، با بهره‌گیری از پیشرفته‌ترین مدل‌های زبانی و یادگیری عمیق، قادر به درک پیچیده‌ترین درخواست‌های کاربران و ارائه پاسخ‌های دقیق و مبتنی بر زمینه است. **NexaChat** برای کسب‌وکارها و کاربران نهایی طراحی شده و می‌تواند در مشتری‌داری، پشتیبانی ۲۴ ساعته، تحلیل داده‌های متنی و خودکارسازی تعاملات، تحولی چشمگیر ایجاد کند.  
-هدف NexaTech، انسان‌محور کردن هوش مصنوعی و ارائه تجربه‌ای روان، امن و کارآمد برای همگام‌سازی با دنیای دیجیتال امروز است.
+# 1. AI Chatbot
+* **NexaChat AI** is more than just a chatbot—it's a dynamic, context-aware conversational partner designed for businesses and individuals. Built on cutting-edge large language models (LLMs), it delivers accurate, natural, and meaningful dialogue.
+
+
+# 2. NexaMind Studio
+* A no-code development platform for building, training, and deploying custom language models and intelligent automations.
+
+* **Use Case:** Marketing, support, and operations teams can create conversational AI workflows using a simple drag-and-drop interface.
+
+* **Key Benefit:** Reduces development time from months to hours.
 
 
 
+# 3. NexaFlow
+* An Intelligent Process Automation (IPA) tool that integrates AI with operational workflows.
+
+* **Capabilities:** Document processing, form data extraction, and automation of repetitive tasks.
+
+* **Goal:** Eliminate manual work and increase accuracy across finance, HR, and logistics departments.
