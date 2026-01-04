@@ -10,8 +10,8 @@ comments: false
 
 
 # Company
-02188776655
-NexaTech@example.com
+- Phone: 02188776655
+- Email: [NexaTech@example.com](NexaTech@example.com)
 
 
 
