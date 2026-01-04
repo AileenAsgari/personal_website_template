@@ -108,15 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "NexaTech"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  avatar           : "/assets/images/10_generated.jpg"
+  bio              : Where Ideas and Technology Converge.
+  location         : "Tehran"
+  email            : al.asgariasl@gmail.com
+  # twitter: sauleh_e
   linkedin: 
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  # google_scholar: Q25s5KkAAAAJ
+  github: AylinAsgari
+  # instagram: saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
